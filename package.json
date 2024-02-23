@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/TerriaJS/terriajs-schema#readme",
   "dependencies": {
-    "jsonschema": "^1.0.3",
+    "jsonschema": "https://github.com/robertohuru/jsonschema.git#master",
     "when": "^3.7.7",
     "yargs": "^3.32.0"
   },
